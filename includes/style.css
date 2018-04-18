@@ -1,0 +1,213 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header, nav, main, footer, div {
+	display: block;
+}
+
+.MainHeader {
+	height: 99px;
+	width: 1400px;
+	padding-left: 200px;
+	background-color: #f6f9f9;
+}
+
+.logo{
+	margin-top: 21px;
+	margin-left: 51px;
+	height: 60px;
+	width: 197px;
+	background: url('../images/logo.png') no-repeat left center;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.logo a{	
+	padding-left: 62px;
+	padding-top: 15px;
+	font-size: 21px;
+	color: #264951;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: cursive;
+	display: inline-block;
+}
+
+.NavLink{
+	padding-top: 19px;
+	margin-left: 67px;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.NavLink a, .NavLink b {
+	font-size: 30px;
+	color: #264951;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Verdana;
+	display: inline;
+}
+
+.NavLink a:hover {
+	color: #15a4fa;
+}
+
+.Banner {
+	background: url('../images/cover.jpg') no-repeat left center;
+	height: 800px;
+	width: 1600px;
+}
+
+.Banner h1 {
+	padding-top: 239px;
+	margin-left: 505px;
+	font-size: 120px;
+	color: #ffffff;
+	font-weight: normal;
+	font-family: Arial;
+	border-bottom:solid;
+	border-bottom-color: #15a4fa;
+	display:inline-block;
+}
+
+.Banner h2 {
+	padding-top: 39px;
+	text-align: center;
+	font-size: 20px;
+	color: #ffffff;
+	font-weight: normal;
+	font-family: Arial;
+}
+
+.Banner a {
+	height: 36px;
+	width: 177px;
+	padding-top: 14px;
+	margin-top: 63px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+	font-size: 18px;
+	color: #ffffff;
+	background-color: #15a4fa;
+	text-decoration: none;
+	font-weight: normal;
+	font-family: Arial;
+	display: block;
+	border:solid;
+	border-color: #15a4fa;
+	border-radius: 5px;
+}
+
+.Banner a:hover{
+	font-size: 20px;	
+}
+
+.Description{
+	height: 341px;
+	width: 1600px;
+	background-color: #f6f9f9;
+}
+
+.Description h2{
+	padding-top: 79px;
+	text-align: center;
+	font-size: 40px;
+	color: #2d3950;
+	font-weight: normal;
+	font-family: Arial;
+}
+
+.Description p{
+	padding-top: 36px;
+	text-align: center;
+	font-size: 20px;
+	color: #999999;
+	font-weight: normal;
+	font-family: Arial;
+}
+
+.Info{
+	height: 635px;
+	width: 1600px;
+	background-color: #ffffff;
+}
+
+.Info h2{
+	padding-top: 73px;
+	padding-bottom: 60px;
+	text-align: center;
+	font-size: 41px;
+	color: #2d3950;
+	font-weight: normal;
+	font-family: Arial;
+}
+
+.LangList img{
+	margin-right: 31px;
+    vertical-align: middle;
+}
+
+.LangList li{
+	margin-left: 355px;
+	margin-bottom: 19px;
+	font-size: 30px;
+	font-weight: normal;
+	font-family: Courier;
+	color: #2d3950;
+	display: block;
+}
+
+.Contacts {
+	height: 91px;
+	width: 1400px;
+	padding-left: 200px;
+	background-color: #f6f9f9;
+}
+
+.Contacts h3{
+	padding-top: 25px;
+	margin-left: 10px;
+	font-size: 15px;
+	color: #999999;
+	font-weight: normal;
+	font-family: Arial;
+	vertical-align: middle;	
+	display: inline-block;
+}
+
+.Contacts a{
+	margin-top: 26px;
+	height: 41px;
+	width: 41px;
+	vertical-align: middle;
+	display: inline-block;
+	border:solid;
+	border-color: #15a4fa;
+	background-color: #15a4fa;
+	border-radius: 5px;
+}
+
+.Contacts a:hover{
+	border-color: #3b5998;
+	background-color: #3b5998;
+}
+
+.gmail{
+	background: url('../images/footer1.png') no-repeat;
+	margin-left: 51px;
+}
+
+.skype{
+	background: url('../images/footer2.png') no-repeat;
+}
+
+
+
+
+
+
+
